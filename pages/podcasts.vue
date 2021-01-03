@@ -8,7 +8,7 @@
     >
       {{ podcast }}
     </p>
-    <p>Click a friend</p>
+    <p>Click a podcast</p>
   </div>
 </template>
 
