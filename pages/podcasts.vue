@@ -2,8 +2,8 @@
   <div class="container">
     <p
       v-for="podcast of podcasts.times"
-      class="podcast"
       :key="podcast"
+      class="podcast"
       @click="clickPodcast(podcast)"
     >
       {{ podcast }}
