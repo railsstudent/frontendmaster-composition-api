@@ -3,6 +3,7 @@
     <ul>
       <li>
         <nuxt-link exact to="/">Home</nuxt-link>
+        <nuxt-link to="/podcasts">Podcasts</nuxt-link>
       </li>
     </ul>
   </nav>
